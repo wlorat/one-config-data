@@ -1,6 +1,6 @@
 #Application Configuration
 server:
-  port: 8005
+  port: 8006
 
 spring:
   profiles:
