@@ -1,6 +1,6 @@
 #Application Configuration
 server:
-  port: 8010
+  port: 8011
 
 spring:
   profiles:
