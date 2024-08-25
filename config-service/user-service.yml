@@ -3,9 +3,6 @@ server:
   port: 8003
 
 spring:
-  application:
-    name: user-service
-
   profiles:
     active: dev
 
